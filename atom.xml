@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://inusturbo.github.io</id>
+    <title>小马的世界</title>
+    <updated>2022-07-20T22:27:32.652Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://inusturbo.github.io"/>
+    <link rel="self" href="https://inusturbo.github.io/atom.xml"/>
+    <subtitle>Pony&apos;s World</subtitle>
+    <logo>https://inusturbo.github.io/images/avatar.png</logo>
+    <icon>https://inusturbo.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 小马的世界</rights>
+    <entry>
+        <title type="html"><![CDATA[NAIST合格体験記]]></title>
+        <id>https://inusturbo.github.io/post/naist-he-ge-ti-yan-ji/</id>
+        <link href="https://inusturbo.github.io/post/naist-he-ge-ti-yan-ji/">
+        </link>
+        <updated>2022-07-20T09:54:43.000Z</updated>
+        <summary type="html"><![CDATA[<p>我合格了<strong>奈良先端科学技术大学院大学</strong> 先端科学技术研究科 情报科学领域 修士课程（2022年秋入学第二次选拔）。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>我合格了<strong>奈良先端科学技术大学院大学</strong> 先端科学技术研究科 情报科学领域 修士课程（2022年秋入学第二次选拔）。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[甲府生活攻略]]></title>
+        <id>https://inusturbo.github.io/post/kofulife/</id>
+        <link href="https://inusturbo.github.io/post/kofulife/">
+        </link>
+        <updated>2022-04-19T21:13:48.000Z</updated>
+        <summary type="html"><![CDATA[<p>新生活应该如何开始，请阅读下面的内容。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>新生活应该如何开始，请阅读下面的内容。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【托福TOEFL】托福的口语写作模板]]></title>
+        <id>https://inusturbo.github.io/post/tuo-fu-toefl-tuo-fu-de-kou-yu-xie-zuo-mo-ban/</id>
+        <link href="https://inusturbo.github.io/post/tuo-fu-toefl-tuo-fu-de-kou-yu-xie-zuo-mo-ban/">
+        </link>
+        <updated>2022-04-07T23:35:25.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本入境全攻略]]></title>
+        <id>https://inusturbo.github.io/post/rujing/</id>
+        <link href="https://inusturbo.github.io/post/rujing/">
+        </link>
+        <updated>2022-03-21T20:23:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>这是一份日本入境的全攻略。<br>
+我乘坐的航班是大连飞往成田的JL820 下午13:00（北京时间）-17:00（东京时间）</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这是一份日本入境的全攻略。<br>
+我乘坐的航班是大连飞往成田的JL820 下午13:00（北京时间）-17:00（东京时间）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【日语】JLPT N1 文法]]></title>
+        <id>https://inusturbo.github.io/post/n1Grammar/</id>
+        <link href="https://inusturbo.github.io/post/n1Grammar/">
+        </link>
+        <updated>2022-02-28T03:17:24.000Z</updated>
+        <summary type="html"><![CDATA[<p>このファイルは日本語能力試験(JLPT)N1文法勉強のノートです。</p>
+<p>ソース：<br>
+<a href="https://nihongonomori.com/">日本語の森</a><br>
+<a href="https://www.bilibili.com/video/BV1vT4y137xu">【日语之森N1语法】【日本語の森　N1 Grammar】</a></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>このファイルは日本語能力試験(JLPT)N1文法勉強のノートです。</p>
+<p>ソース：<br>
+<a href="https://nihongonomori.com/">日本語の森</a><br>
+<a href="https://www.bilibili.com/video/BV1vT4y137xu">【日语之森N1语法】【日本語の森　N1 Grammar】</a></p>
+]]></content>
+    </entry>
+</feed>
