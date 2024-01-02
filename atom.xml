@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ma.shanpeng.im</id>
+    <title>小马的世界</title>
+    <updated>2024-01-02T06:44:32.446Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ma.shanpeng.im"/>
+    <link rel="self" href="https://ma.shanpeng.im/atom.xml"/>
+    <subtitle>//Pony&apos;s World</subtitle>
+    <logo>https://ma.shanpeng.im/images/avatar.png</logo>
+    <icon>https://ma.shanpeng.im/favicon.ico</icon>
+    <rights>All rights reserved 2024, 小马的世界</rights>
+    <entry>
+        <title type="html"><![CDATA[Vue.js学习日记【13】Vue CLI]]></title>
+        <id>https://ma.shanpeng.im/post/OD_iClTNe/</id>
+        <link href="https://ma.shanpeng.im/post/OD_iClTNe/">
+        </link>
+        <updated>2024-01-02T07:43:25.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue.js学习日记【11】组合式 API（Composition API）的方法]]></title>
+        <id>https://ma.shanpeng.im/post/Co4oCo3M9/</id>
+        <link href="https://ma.shanpeng.im/post/Co4oCo3M9/">
+        </link>
+        <updated>2023-12-30T03:53:46.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue.js学习日记【10】Composition API]]></title>
+        <id>https://ma.shanpeng.im/post/FwpHRDeui/</id>
+        <link href="https://ma.shanpeng.im/post/FwpHRDeui/">
+        </link>
+        <updated>2023-12-16T13:09:13.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue.js学习日记【9】内置组件 动画]]></title>
+        <id>https://ma.shanpeng.im/post/Pf13kk4L6/</id>
+        <link href="https://ma.shanpeng.im/post/Pf13kk4L6/">
+        </link>
+        <updated>2023-12-11T02:30:06.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue.js学习日记【8】slot插槽]]></title>
+        <id>https://ma.shanpeng.im/post/-VA0YBWUm/</id>
+        <link href="https://ma.shanpeng.im/post/-VA0YBWUm/">
+        </link>
+        <updated>2023-12-10T08:52:45.000Z</updated>
+    </entry>
+</feed>
